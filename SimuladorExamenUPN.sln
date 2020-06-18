@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorExamenUPN", "SimuladorExamenUPN\SimuladorExamenUPN.csproj", "{2024BD2B-5897-4C36-AB3A-738F23148507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimuladorExamenUPNTest", "SimuladorExamenUPNTest\SimuladorExamenUPNTest.csproj", "{F2AC2E33-2472-4FE3-AA90-4B6B3187F3DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2024BD2B-5897-4C36-AB3A-738F23148507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AC2E33-2472-4FE3-AA90-4B6B3187F3DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AC2E33-2472-4FE3-AA90-4B6B3187F3DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AC2E33-2472-4FE3-AA90-4B6B3187F3DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AC2E33-2472-4FE3-AA90-4B6B3187F3DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {600B074E-A398-4920-9051-BFAD1673F63B}
+	EndGlobalSection
+EndGlobal
